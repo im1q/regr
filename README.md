@@ -3,10 +3,4 @@
 ## 二级标题
 二级说明文字
 
-<<<<<<< HEAD
-## 本地修改的内容myself a test
-=======
-## 本地修改的内容test sxp
-
->>>>>>> c2eb4ce (冲突合并测试提交。)
-
+## 本地修改的内容myself a test sxp
